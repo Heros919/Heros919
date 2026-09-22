@@ -76,3 +76,8 @@ Também tenho interesse em desenvolver projetos que permitam colocar esses conhe
   </a>
 </p>
 
+<p align="left">
+  <a href="https://www.instagram.com/heros_henrique169?stkn=MXJnYWh1eWt2ZDU1aQ==">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+</p>
