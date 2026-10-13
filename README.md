@@ -2,17 +2,17 @@
 
 ### 💻 Desenvolvedor Web
 
-Sou desenvolvedor focado em **desenvolvimento web**, buscando construir aplicações modernas, funcionais e bem estruturadas.
+Sou desenvolvedor focado em **desenvolvimento web**, buscando construir aplicações modernas, funcionais e bem estruturadas.[cite: 1]
 
-Tenho conhecimentos em **Front-end**, **Back-end** e **bancos de dados**, além de estar constantemente aprimorando minhas habilidades e explorando novas tecnologias.
+Tenho conhecimentos em **Front-end**, **Back-end** e **bancos de dados**, além de estar constantemente aprimorando minhas habilidades e explorando novas tecnologias.[cite: 1]
 
 ---
 
-## 🚀 Tecnologias e conhecimentos
+## 🚀 Tecnologias e conhecimentos[cite: 1]
 
-### 🎨 Front-end
+### 🎨 Front-end[cite: 1]
 
-Tenho conhecimento em:
+Tenho conhecimento em:[cite: 1]
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html" width="60" alt="HTML5"/>
@@ -20,55 +20,71 @@ Tenho conhecimento em:
   <img src="https://skillicons.dev/icons?i=js" width="60" alt="JavaScript"/>
 </p>
 
-- **HTML5** → Estruturação de páginas web
-- **CSS3** → Estilização e criação de interfaces
-- **JavaScript** → Interatividade e lógica no Front-end
+- **HTML5** → Estruturação de páginas web[cite: 1]
+- **CSS3** → Estilização e criação de interfaces[cite: 1]
+- **JavaScript** → Interatividade e lógica no Front-end[cite: 1]
 
 ---
 
-### ⚙️ Back-end
+### ⚙️ Back-end[cite: 1]
 
-Conhecimentos em:
+Conhecimentos em:[cite: 1]
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=nestjs" width="60" alt="NestJS"/>
   <img src="https://skillicons.dev/icons?i=typescript" width="60" alt="TypeScript"/>
 </p>
 
-- **NestJS** → Desenvolvimento de APIs e aplicações Back-end
-- **TypeScript** → Desenvolvimento com tipagem estática e código mais organizado
+- **NestJS** → Desenvolvimento de APIs e aplicações Back-end[cite: 1]
+- **TypeScript** → Desenvolvimento com tipagem estática e código mais organizado[cite: 1]
 
 ---
 
-### 🗄️ Banco de Dados
+### 🗄️ Banco de Dados[cite: 1]
 
-Conhecimento em:
+Conhecimento em:[cite: 1]
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=postgres" width="60" alt="PostgreSQL"/>
 </p>
 
-- **PostgreSQL** → Banco de dados relacional e gerenciamento de informações
+- **PostgreSQL** → Banco de dados relacional e gerenciamento de informações[cite: 1]
 
 ---
 
-## 🛠️ Tecnologias
+## 🎓 Cursos e Certificações
+
+### 🟦 Microsoft Learn
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,nestjs,typescript,postgres" alt="Tecnologias"/>
+  <a href="https://learn.microsoft.com/users/seu-usuario-do-learn/">
+    <img src="https://img.shields.io/badge/Microsoft_Learn-Introdução_à_Codificação_de_Vibração_(Vibe_Coding)-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Introdução à codificação de vibração"/>
+  </a>
+</p>
+
+- **Introdução à codificação de vibração (Vibe Coding)**[cite: 1]
+  - *Módulo concluído (1000 XP)*[cite: 1]
+  - Abordagem de *vibe coding* para desenvolvimento de aplicações usando o **GitHub Copilot Agent** e **VS Code**.[cite: 1]
+
+---
+
+## 🛠️ Tecnologias[cite: 1]
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,nestjs,typescript,postgres,vscode,github" alt="Tecnologias"/>
 </p>
 
 ---
 
-## 📚 Atualmente
+## 📚 Atualmente[cite: 1]
 
-Estou buscando evoluir constantemente minhas habilidades em desenvolvimento web, aprofundando meus conhecimentos em **Front-end, Back-end e banco de dados**.
+Estou buscando evoluir constantemente minhas habilidades em desenvolvimento web, aprofundando meus conhecimentos em **Front-end, Back-end e banco de dados**.[cite: 1]
 
-Também tenho interesse em desenvolver projetos que permitam colocar esses conhecimentos em prática e aprender novas tecnologias ao longo do caminho.
+Também tenho interesse em desenvolver projetos que permitam colocar esses conhecimentos em prática e aprender novas tecnologias ao longo do caminho.[cite: 1]
 
 ---
 
-## 📫 Contato
+## 📫 Contato[cite: 1]
 
 <p align="left">
   <a href="https://github.com/Heros919">
